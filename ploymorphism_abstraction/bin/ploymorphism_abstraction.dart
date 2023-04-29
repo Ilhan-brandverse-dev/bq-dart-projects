@@ -7,7 +7,7 @@ void main() {
   Shape sq1 = Square(5, 2, "Green");
   sq1.calculateArea();
   sq1.getColor();
-  sq1.square();
+  // sq1.square();
   print("===============================================");
   Circle crc1 = Circle(12, 12, "Purple");
   crc1.calculateArea();
